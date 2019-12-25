@@ -1,4 +1,4 @@
-#Automobile Inventory Management System
+# Automobile Inventory Management System
 
 	This inventory management system, is used to maintain an automobile store. The management system has a record of all the raw materials present. The management system makes necessary changes when a raw material is bought or sold or lost.
 
