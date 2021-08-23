@@ -15,7 +15,8 @@ TEAM MEMBERS:
     • Samhitha Perala
 	IMT2019521
 
-    • Channamsetty Sivani
+    • sivanich9
+    Channamsetty Sivani
 	IMT2019020
 
     • Chinthakunta Amitha Reddy
